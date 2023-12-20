@@ -1,7 +1,15 @@
 ### BootCamp_Project_3
 
+![image](https://github.com/Dusko2779/BootCamp_project_3/assets/134830906/1d3ed472-bf4f-451e-94d3-0e3370fdc9a5)
+
+
 ### Requirements
+
 Data and Delivery (25 points)
+
+![image](https://github.com/Dusko2779/BootCamp_project_3/assets/134830906/0ed2f6e7-1682-4461-ae06-6119c22ff9d8)
+
+![image](https://github.com/Dusko2779/BootCamp_project_3/assets/134830906/71f2042a-3cb5-4627-8a9d-5639341a3f45)
 
 Data components used in the project are clearly documented. (5 points)
 
